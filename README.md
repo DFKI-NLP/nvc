@@ -12,7 +12,7 @@ Accompanying code for the paper:
   year = {2019}
   }
 ```
-![nvc](https://github.com/DFKI-NLP/nvc/blob/master/data/drawing_listening_corrected.eps)
+![nvc](https://github.com/DFKI-NLP/nvc/blob/master/data/drawing_listening_corrected.png)
 ## Installation
 
 Create and activate an environment with Python 3.6.
