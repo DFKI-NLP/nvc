@@ -13,6 +13,8 @@ Accompanying code for the paper:
   }
 ```
 ![nvc](https://github.com/DFKI-NLP/nvc/blob/master/data/drawing_listening_corrected.png)
+Neural Vector Conceptualization of *listening*.
+
 ## Installation
 
 Create and activate an environment with Python 3.6.
