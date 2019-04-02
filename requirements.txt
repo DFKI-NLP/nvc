@@ -1,0 +1,10 @@
+keras==2.2.4
+tensorflow-gpu==1.3.0
+sklearn
+numpy
+gensim
+scipy
+matplotlib
+pandas
+seaborn
+jupyter

@@ -1,0 +1,26 @@
+{
+  "batch_size": 128,
+  "class_weights": true,
+  "classif_threshold": 0.5,
+  "cross_val": false,
+  "early_stopping": true,
+  "epochs": 10,
+  "mcg_file_header": [
+    "concept",
+    "instance",
+    "count",
+    "p(c|e)",
+    "p(e|c)",
+    "rep",
+    "empty"
+  ],
+  "min_num_inst": 100,
+  "min_rep": -10,
+  "num_hidden_layers": 2,
+  "only_unigrams": false,
+  "regularizers": [
+    0.000001,
+    0.000001
+  ],
+  "train_set_size": 0.8
+}
