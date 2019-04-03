@@ -8,7 +8,7 @@ Accompanying code for the paper:
   title = {Neural Vector Conceptualization for Word Vector Space Interpretation},
   booktitle = {Proceedings of the NAACL-HLT 2019 Workshop on Evaluating Vector Space Representations for NLP (RepEval)},
   author = {Schwarzenberg, Robert and Raithel, Lisa and Harbecke, David},
-  address = {Minneapolis, Minnesota, USA},
+  location = {Minneapolis, Minnesota, USA},
   year = {2019}
   }
 ```
