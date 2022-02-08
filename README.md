@@ -29,8 +29,7 @@ Note: when cloning the repository, 800 MB of data will be downloaded from the Gi
 
 If git lfs fails to download input_data.zip, please try the following link
 
-[//]: # (asset was moved to SLT group account, not copied, which is why linke is persistent)
-https://cloud.dfki.de/owncloud/index.php/s/ZYQArMj6rw7WSjG
+https://cloud.dfki.de/owncloud/index.php/s/ZKrMPJpkHdfMg6E
 
 After cloning the repository, install requirements.
 
