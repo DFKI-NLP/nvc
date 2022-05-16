@@ -27,9 +27,7 @@ Make sure, git-lfs is installed.
 
 Note: when cloning the repository, 800 MB of data will be downloaded from the GitHub LFS server automatically (if git-lfs is installed).
 
-If git lfs fails to download input_data.zip, please try the following link
-
-https://cloud.dfki.de/owncloud/index.php/s/ZKrMPJpkHdfMg6E
+If git lfs fails to download input_data.zip, please download the data from [here](https://drive.google.com/drive/folders/1L_RS-pyDV_ZE615OKhgQBoSXR1ByzMPG).
 
 After cloning the repository, install requirements.
 
